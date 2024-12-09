@@ -1,1 +1,1 @@
-web: python order_service.py
+web: python3 order_service.py
